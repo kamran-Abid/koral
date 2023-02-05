@@ -1,0 +1,2 @@
+Add new column [GateLevel] in table [mctx_Gates] having DataType int Allow Nulls check 
+Fill Field of [GateLevel] with int values and uncheck the Allow Nulls checkbox.
